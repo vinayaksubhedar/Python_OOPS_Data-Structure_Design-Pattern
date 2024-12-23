@@ -1,0 +1,23 @@
+# Ignore log files
+*.log
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore all files in a specific directory
+/temp/
+
+#Ignore my file
+checkgitignore.txt
+x.py
