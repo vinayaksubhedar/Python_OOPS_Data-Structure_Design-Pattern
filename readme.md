@@ -9,6 +9,9 @@ This is Python refresher for me to get ready.
 7. git status
 8. git log
 9. git clone <<url>>
+10. git branch <<branch name>>
+11. git branch
+12. git checkout <<branchname>>
 
 
 https://github.com/vinayaksubhedar/Python_OOPS_Data-Structure_Design-Pattern.git
