@@ -1,3 +1,5 @@
+"""Basics of Object Oriented Programming"""
+
 class Email:
     pass
 
