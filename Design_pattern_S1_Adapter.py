@@ -1,5 +1,5 @@
 """
-Adapter Patten was used to convert Jason generated through AI tool to JSON.
+Adapter Patten was used to convert Jason generated through AI tool to XML which was input for our old system.
 """
 
 class FahrenheitThermometer:
